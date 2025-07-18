@@ -1,7 +1,7 @@
-# CodeAlpha Currency Converter Web App - Task 3 🚀
+# CodeAlpha Currency Converter Web App 
 
 
-This is a simple **Currency Converter Web App** built as part of my **CodeAlpha internship**. It allows users to convert amounts between different currencies in real-time, powered by the **Exchangerate API**.
+This is a simple **Currency Converter Web App**. It allows users to convert amounts between different currencies in real-time, powered by the **Exchangerate API**.
 
 ---
 
