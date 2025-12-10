@@ -1,4 +1,4 @@
-# CodeAlpha Currency Converter Web App 
+# Currency Converter Web App 
 
 
 This is a simple **Currency Converter Web App**. It allows users to convert amounts between different currencies in real-time, powered by the **Exchangerate API**.
